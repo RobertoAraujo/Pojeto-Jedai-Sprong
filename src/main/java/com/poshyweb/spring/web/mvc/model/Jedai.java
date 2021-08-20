@@ -1,4 +1,4 @@
-package com.poshyweb.spring.web.mvc.nodel;
+package com.poshyweb.spring.web.mvc.model;
 
 import java.io.Serializable;
 import java.util.Objects;
